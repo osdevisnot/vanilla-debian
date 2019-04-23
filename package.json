@@ -1,0 +1,8 @@
+{
+  "name": "vanilla-debian",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/osdevisnot/vanilla-debian.git",
+  "author": "osdevisnot <osdevisnot@gmail.com>",
+  "license": "MIT"
+}
